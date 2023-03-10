@@ -13,7 +13,7 @@ x0 = [1  1  1  1  1  1  1  4.9/6 ...
 
 
 
-%iMonte = simulation set for 1000 itterations ( this can be changed to more
+%iMonte = simulation set for 10 itterations ( this can be changed to more
 %or less itterations)
 %open struc in workspace to see values for as4, g2, and corresponding SSEs
 % array fields = parameters SSEFe SSEZn
